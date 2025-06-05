@@ -1,6 +1,6 @@
 {
   "name": "langchainjs-gpt4all",
-  "version": "0.0.6",
+  "version": "0.0.74",
   "engines": {
     "node": ">=18"
   },
