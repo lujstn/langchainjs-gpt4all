@@ -2,7 +2,7 @@
 
 ⚡ Building applications with LLMs through composability ⚡
 
-[![CI](https://github.com/lucasjohnston/langchainjs-gpt4all/actions/workflows/ci.yml/badge.svg)](https://github.com/lucasjohnston/langchainjs-gpt4all/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/langchainai.svg?style=social&label=Follow%20%40LangChainAI)](https://twitter.com/langchainai) [![](https://dcbadge.vercel.app/api/server/6adMQxSpJS?compact=true&style=flat)](https://discord.gg/6adMQxSpJS)
+[![CI](https://github.com/lujstn/langchainjs-gpt4all/actions/workflows/ci.yml/badge.svg)](https://github.com/lujstn/langchainjs-gpt4all/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/langchainai.svg?style=social&label=Follow%20%40LangChainAI)](https://twitter.com/langchainai) [![](https://dcbadge.vercel.app/api/server/6adMQxSpJS?compact=true&style=flat)](https://discord.gg/6adMQxSpJS)
 
 Looking for the Python version? Check out [LangChain](https://github.com/hwchase17/langchain-gpt4all).
 

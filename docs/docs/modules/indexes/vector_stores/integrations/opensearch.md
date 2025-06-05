@@ -18,7 +18,7 @@ Langchain.js accepts [@opensearch-project/opensearch](https://opensearch.org/doc
 npm install -S @opensearch-project/opensearch
 ```
 
-You'll also need to have an OpenSearch instance running. You can use the [official Docker image](https://opensearch.org/docs/latest/opensearch/install/docker/) to get started. You can also find an example docker-compose file [here](https://github.com/lucasjohnston/langchainjs-gpt4all/blob/main/examples/src/indexes/vector_stores/opensearch/docker-compose.yml).
+You'll also need to have an OpenSearch instance running. You can use the [official Docker image](https://opensearch.org/docs/latest/opensearch/install/docker/) to get started. You can also find an example docker-compose file [here](https://github.com/lujstn/langchainjs-gpt4all/blob/main/examples/src/indexes/vector_stores/opensearch/docker-compose.yml).
 
 ## Index docs
 

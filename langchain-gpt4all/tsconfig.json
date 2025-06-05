@@ -131,7 +131,7 @@
     "excludeExternals": true,
     "excludeNotDocumented": false,
     "includeVersion": true,
-    "sourceLinkTemplate": "https://github.com/lucasjohnston/langchainjs-gpt4all/blob/{gitRevision}/{path}#L{line}",
+    "sourceLinkTemplate": "https://github.com/lujstn/langchainjs-gpt4all/blob/{gitRevision}/{path}#L{line}",
     "readme": "none",
     "out": "docs"
   }

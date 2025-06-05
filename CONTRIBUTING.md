@@ -12,7 +12,7 @@ To contribute to this project, please follow a ["fork and pull request"](https:/
 
 If you are not sure what to work on, we have a few suggestions:
 
-- Look at the issues with the [help wanted](https://github.com/lucasjohnston/langchainjs-gpt4all/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) label. These are issues that we think are good targets for new contributors. If you are interested in working on one of these, please comment on the issue so that we can assign it to you. And any questions let us know, we're happy to guide you!
+- Look at the issues with the [help wanted](https://github.com/lujstn/langchainjs-gpt4all/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) label. These are issues that we think are good targets for new contributors. If you are interested in working on one of these, please comment on the issue so that we can assign it to you. And any questions let us know, we're happy to guide you!
 - At the moment our main focus is reaching parity with the Python version across both [integrations](https://langchain-gpt4all.com/integrations.html) and [features](https://langchain-gpt4all.com/features.html). If you are interested in working on a specific integration or feature, just pick anything from those lists not done yet, please let us know and we can help you get started.
 
 ### New abstractions
@@ -23,7 +23,7 @@ We are currently trying to keep API parity between the Python and JS versions of
 
 ### 🚩GitHub Issues
 
-Our [issues](https://github.com/lucasjohnston/langchainjs-gpt4all/issues) page is kept up to date
+Our [issues](https://github.com/lujstn/langchainjs-gpt4all/issues) page is kept up to date
 with bugs, improvements, and feature requests. There is a taxonomy of labels to help
 with sorting and discovery of issues of interest. These include:
 

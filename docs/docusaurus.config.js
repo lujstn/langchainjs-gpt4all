@@ -75,7 +75,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
-            "https://github.com/lucasjohnston/langchainjs-gpt4all/edit/main/docs/",
+            "https://github.com/lujstn/langchainjs-gpt4all/edit/main/docs/",
           remarkPlugins: [
             [require("@docusaurus/remark-plugin-npm2yarn"), { sync: true }],
           ],
